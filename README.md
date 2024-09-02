@@ -1,7 +1,6 @@
+![Master-Banner](https://github.com/user-attachments/assets/5c62fa17-f00c-4aa6-a5dd-7d4249395596)
 <h1 align="center">Hi 👋, I'm Balwinder Singh Kalsi</h1>
 <h3 align="center">A Programmer and Front-End Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 
 - 🔭 I’m currently working on **Airline Management System**
 
