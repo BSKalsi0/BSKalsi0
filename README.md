@@ -1,4 +1,4 @@
-![Master-Banner](https://github.com/user-attachments/assets/5c62fa17-f00c-4aa6-a5dd-7d4249395596)
+![Bannergif](https://github.com/user-attachments/assets/ca8b5cb1-108f-4df7-9c3f-53bfbc3854fb)
 <h1 align="center">Hi 👋, I'm Balwinder Singh Kalsi</h1>
 <h3 align="center">A Programmer and Front-End Developer</h3>
 
