@@ -1,6 +1,7 @@
 ![Bannergif](https://github.com/user-attachments/assets/ca8b5cb1-108f-4df7-9c3f-53bfbc3854fb)
 <h1 align="center">Hi 👋, I'm Balwinder Singh Kalsi</h1>
 <h3 align="center">A Programmer and Front-End Developer</h3>
+<img align="right" alt="Coding" height=""100 width="300" src="https://miro.medium.com/v2/resize:fit:750/format:webp/1*frJJ8v0uWOmtbdYO-JKXGw.gif">
 
 - 🔭 I’m currently working on **Airline Management System**
 
